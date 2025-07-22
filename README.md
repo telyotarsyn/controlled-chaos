@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner1.png" alt="Banner" width="50%" />
+  <img src="assets/banner1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Islamiia Gilmanova</h1>
