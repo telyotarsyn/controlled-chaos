@@ -80,7 +80,7 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 - Visual Studio Code · JupyterLab · GitHub Actions · Docker · Linux
 
 **Languages:**
-- English · Russian · German (intermediate)
+- English (advanced)· · German (intermediate) · Russian (native) ·  Tatar (native)
 
 ---
 ## Tech & Tools I Use
