@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/islamiia-gilmanova?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=islamiia-gilmanova&label=Profile%20Views&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/telyotarsyn?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=telyotarsyn&label=Profile%20Views&color=0e75b6" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/Made%20with-TensorFlow-orange" />
 </p>
@@ -27,7 +27,7 @@
 - ONNX model export
 - Confusion matrix + inference visualizations
 
-🔗 [View Repository](https://github.com/islamiia-gilmanova/small-objects-classifier)
+🔗 [View Repository](https://github.com/telyotarsyn/small-objects-classifier)
 
 ---
 
@@ -40,7 +40,7 @@
 - Clean input preprocessing & augmentation
 - tf.data API support
 
-🔗 [View Repository](https://github.com/islamiia-gilmanova/tfrecord-pipeline-template)
+🔗 [View Repository](https://github.com/telyotarsyn/tfrecord-pipeline-template)
 
 ---
 
@@ -88,8 +88,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamiia-gilmanova&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamiia-gilmanova&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=telyotarsyn&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telyotarsyn&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
