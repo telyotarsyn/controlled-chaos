@@ -1,4 +1,3 @@
-# controlled-chaos
 # 👋 Hello, I'm Islamiia Gilmanova
 
 🎓 MSc Student in Research in Computer and Systems Engineering @ TU Ilmenau  
