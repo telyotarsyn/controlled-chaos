@@ -60,8 +60,8 @@
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/islamiia-gilmanova?label=Followers)
-![GitHub last commit](https://img.shields.io/github/last-commit/islamiia-gilmanova/tomato-light-dark-classifier)
+![GitHub followers](https://img.shields.io/github/followers/telyotarsyn?label=Followers)
+![GitHub last commit](https://img.shields.io/github/last-commit/telyotarsyn/controlled-chaos)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange)
 
