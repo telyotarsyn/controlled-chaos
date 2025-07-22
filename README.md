@@ -9,7 +9,7 @@
 ## 🚀 Current Public Projects
 
 ###  Small Objects Classification (Synthetic Version)
-> Binary classifier trained on synthetic tomato images using MobileNetV2 + SE Blocks.  
+> Binary classifier trained on synthetic seed images using MobileNetV2 + SE Blocks.  
 > Based on my private industrial work, adapted for open-source demo with public datasets.
 
 🔧 Key features:
