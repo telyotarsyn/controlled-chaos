@@ -1,70 +1,115 @@
-# 👋 Hello, I'm Islamiia Gilmanova
+<h1 align="center">👋 Hello, I'm Islamiia Gilmanova</h1>
 
-🎓 MSc Student in Research in Computer and Systems Engineering @ TU Ilmenau  
-🧠 Specializing in Deep Learning · Image Classification · Domain Adaptation  
-📍 Currently working on industrial AI projects for fine seed sorting using CNNs and attention mechanisms.
+<p align="center">
+  🎓 MSc Student in Research in Computer and Systems Engineering @ TU Ilmenau<br>
+  💡 Deep Learning · Image Classification · Domain Adaptation · Data Pipelines
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/islamiia-gilmanova?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=islamiia-gilmanova&label=Profile%20Views&color=0e75b6" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Made%20with-TensorFlow-orange" />
+</p>
 
 ---
 
 ## 🚀 Current Public Projects
 
-###  Small Objects Classification (Synthetic Version)
+### 🔍 Small Objects Classification (Synthetic Version)
 > Binary classifier trained on synthetic seed images using MobileNetV2 + SE Blocks.  
-> Based on my private industrial work, adapted for open-source demo with public datasets.
+> Adapted from private industrial research for safe open-source demonstration.
 
-🔧 Key features:
-- 4-channel image support
-- TFRecord pipeline (public)
-- Attention-enhanced MobileNetV2
-- ONNX export
-- Performance visualization tools
+**Key Features:**
+- 4-channel image input
+- Public TFRecord pipeline
+- SE attention integration
+- ONNX model export
+- Confusion matrix + inference visualizations
 
-[👉 View Project Repository](https://github.com/islamiia-gilmanova/small-objects-classifier)
+🔗 [View Repository](https://github.com/islamiia-gilmanova/small-objects-classifier)
 
 ---
 
-### 🔄 TFRecord Image Pipeline Template
-> General template for loading, augmenting, and batching image data stored in TFRecords.
+### 🧬 TFRecord Image Pipeline Template
+> Modular template for loading, augmenting, batching image datasets from TFRecord files.
 
-📌 Highlights:
-- Works with any dataset
+**Highlights:**
 - Synthetic demo included
-- Configurable input pipeline
-- Training-ready `tf.data.Dataset` format
+- Reusable across projects
+- Clean input preprocessing & augmentation
+- tf.data API support
 
-[👉 View Repository](https://github.com/islamiia-gilmanova/tfrecord-pipeline-template)
+🔗 [View Repository](https://github.com/islamiia-gilmanova/tfrecord-pipeline-template)
 
 ---
 
-## 📊 Research Interests
+## 🧠 Research Interests
 
-- CNN optimization in industrial settings  
-- SE/CBAM attention blocks  
-- Transfer learning with MobileNet  
-- Data pipeline design in TensorFlow  
-- Model conversion: TensorFlow → ONNX
+- Lightweight CNNs for real-world deployment  
+- SE / CBAM attention mechanisms  
+- Transfer learning with MobileNetV2  
+- Scalable `tf.data` pipelines  
+- TensorFlow → ONNX conversion  
+- Applied ML in industrial automation  
+
+---
+
+## 🧑‍💻 Previous Experience
+
+- **Research Assistant (TU Ilmenau)**  
+  Developed deep learning models for image-based decision making in industrial systems.  
+  Focused on classification pipelines, attention modules, and deployment optimization.
+
+- **AI/ML Trainee (Internship Projects)**  
+  Contributed to design of computer vision solutions for object recognition.  
+  Explored dataset preprocessing, model evaluation, and reproducible experiments.
+
+- **Academic Projects**  
+  - Neural machine translation using RNNs  
+  - Privacy-preserving learning with differential privacy  
+  - Federated learning for decentralized systems  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/onnx/onnx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islamiia-gilmanova&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamiia-gilmanova&layout=compact&theme=default" width="48%" />
+</p>
 
 ---
 
 ## 🌱 Goals
 
-> Build a clean, open portfolio that reflects real-world projects without disclosing confidential data.
+> Build a transparent and practical portfolio that reflects real-world expertise —  
+> without disclosing confidential data or violating NDAs.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/islamiia-gilmanova/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/islamiia-gilmanova/)
 - 📧 Email: islamiia.gilmanova@google.com
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/telyotarsyn?label=Followers)
-![GitHub last commit](https://img.shields.io/github/last-commit/telyotarsyn/controlled-chaos)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange)
+<p align="center"><em>“Clarity, efficiency, and reproducibility are my cornerstones in machine learning.”</em></p>
 
----
-
-
-⭐ *Feel free to explore the repositories or reach out for collaboration opportunities in AI or computer vision.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
