@@ -83,7 +83,7 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 - English · Russian · German (intermediate)
 
 ---
-**Tech & Tools I Use**
+## Tech & Tools I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -102,7 +102,7 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=telyotarsyn&show_icons=true&theme=default&hide_title=true" width="48%" />
@@ -115,7 +115,7 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 
 ---
 
-## 🌀 Activity Snake
+## Activity Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/telyotarsyn/telyotarsyn/output/github-contribution-grid-snake.svg" />
