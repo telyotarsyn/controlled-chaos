@@ -1,3 +1,14 @@
+<!-- Banner -->
+<p align="center">
+  <img src="assets/20250722_1100_AI Specialist Banner_remix_01k0rnncv7frwbcd41qmekcymy.png" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Islamiia Gilmanova</h1>
+<p align="center"><strong>Deep Learning · Computer Vision · AI in Industry</strong></p>
+
+
+
+
 <h1 align="center">Islamiia Gilmanova</h1>
 <p align="center"><strong>Deep Learning · Computer Vision · AI in Industry</strong></p>
 
