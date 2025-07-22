@@ -127,3 +127,8 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 - Email: islamiia.gilmanova@google.com
 
 <p align="center" style="opacity: 0.7"><em>This profile contains open-source analogs of my industrial research, built with public datasets.</em></p>
+
+<p align="center">
+  <img src="assets/islamiia_typing_blinking.gif" alt="Islamiia typing" width="300" />
+</p>
+
