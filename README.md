@@ -6,12 +6,6 @@
 <h1 align="center">Islamiia Gilmanova</h1>
 <p align="center"><strong>Deep Learning · Computer Vision · AI in Industry</strong></p>
 
-
-
-
-<h1 align="center">Islamiia Gilmanova</h1>
-<p align="center"><strong>Deep Learning · Computer Vision · AI in Industry</strong></p>
-
 <p align="center">
 M.Sc. student in Research in Computer and Systems Engineering at TU Ilmenau, Germany.  
 Working on applied machine learning and image classification for industrial inspection systems.
@@ -89,6 +83,36 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 - English · Russian · German (intermediate)
 
 ---
+## 🛠 Tech & Tools I Use
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  ...
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=telyotarsyn&show_icons=true&theme=default&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=telyotarsyn&layout=compact&theme=default&hide_title=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=telyotarsyn&theme=flat&column=6&margin-w=15" />
+</p>
+
+---
+
+## 🌀 Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/telyotarsyn/telyotarsyn/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
 ## GitHub Activity & Stats
 
