@@ -115,6 +115,12 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 
 ---
 
+<p align="center">
+  <img src="assets/skyline2024.gif" alt="GitHub Skyline" width="600"/>
+</p>
+
+---
+
 ## Contact
 
 - LinkedIn: [islamiia-gilmanova](https://www.linkedin.com/in/islamiia-gilmanova/)
