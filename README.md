@@ -60,4 +60,12 @@
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/islamiia-gilmanova?label=Followers)
+![GitHub last commit](https://img.shields.io/github/last-commit/islamiia-gilmanova/tomato-light-dark-classifier)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Made with TensorFlow](https://img.shields.io/badge/Made%20with-TensorFlow-orange)
+
+---
+
+
 ⭐ *Feel free to explore the repositories or reach out for collaboration opportunities in AI or computer vision.*
